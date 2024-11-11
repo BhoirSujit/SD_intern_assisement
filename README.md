@@ -4,7 +4,7 @@
 
 This assignment is to build a simple user registration system using the following technologies:
 
-- **Frontend**: React
+- **Frontend**: React Tailwindcss 
 - **Backend**: Node.js (Express)
 - **Database**: PostgreSQL
 
